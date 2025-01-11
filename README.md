@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://testimonials-grid-section-woad-five.vercel.app/)
+- [My Solution Site](https://testimonials-grid-section-woad-five.vercel.app/)
 
 ## My process
 
